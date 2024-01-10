@@ -1,1 +1,3 @@
-# E-Learning Memo
+# Longest Palindrome Substring
+
+- Slowest way
