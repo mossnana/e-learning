@@ -2,5 +2,5 @@
 
 ## Composition
 
-- Recursion `sort.go`
-- Merge `merge.go`
+- Recursion `sort.go` `rust.rs`
+- Merge `merge.go` `rust.rs`
