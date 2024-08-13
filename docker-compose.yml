@@ -1,0 +1,15 @@
+version: '3.9'
+
+services:
+  withdraw:
+    container_name: withdraw
+    networks:
+      - kafka
+  deposit:
+    container_name: deposit
+    networks:
+      - kafka
+  statement:
+    container_name: statement
+    networks:
+      - kafka
